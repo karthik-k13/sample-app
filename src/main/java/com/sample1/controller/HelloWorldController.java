@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @GetMapping("/message")
     public String printMessage(){
-        return "Hello World!!!";
+        return "MKR FinTech";
     }
 }
